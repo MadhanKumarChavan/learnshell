@@ -1,3 +1,3 @@
 ls
 
- yum install inginx
+ yum install nginx -y
