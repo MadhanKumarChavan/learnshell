@@ -33,16 +33,5 @@ Shell scripting is meant to be simple and efficient. It uses the same syntax in 
 However, if there is an error in a shell script, this can prove to be extremely costly if left unnoticed. Additionally, differing platforms associated with shell scripting may not be compatible. Shell scripts can also be slower to execute than individual commands.
 
 
-#important topics of shell
-prinitng
-variables
-functions
-conditions
-loops
-exit status
-inputs
-quotes
+time required to complete is 3 weeks
 
-
-time required 6 months
-.
