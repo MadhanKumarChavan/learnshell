@@ -1,3 +1,3 @@
 ls
 
- install inginx
+ yum install inginx
